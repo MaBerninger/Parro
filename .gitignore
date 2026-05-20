@@ -9,3 +9,5 @@ test_signal_format.py
 receive_signal.py
 list_groups.py
 parro_login.py
+*.png
+git_push.py
