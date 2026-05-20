@@ -1,0 +1,11 @@
+config.env
+parro_messages.json
+parro_ai_log.json
+__pycache__/
+*.pyc
+*.pyo
+test_signal.py
+test_signal_format.py
+receive_signal.py
+list_groups.py
+parro_login.py
